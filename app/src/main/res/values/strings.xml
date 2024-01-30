@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SignUp Screen</string>
+    <string name="sign_up">Sign up</string>
+    <string name="name_field">Name</string>
+    <string name="email_field">Email</string>
+    <string name="password_field">Password</string>
+    <string name="confirm_password_field">Confirm Password</string>
+    <string name="already_have_an_account_text">Already have an account?</string>
+    <string name="log_in_text">Log In</string>
+    <string name="sign_up_with_google_btn">Sign Up with Google</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="i_agree_to_the_terms_and_privacy_policy_tandc">I agree to the Terms and Privacy Policy</string>
+
+    <string name="placeholder_name">Udenyi Egboche Joshua</string>
+    <string name="placeholder_email">udenyijoshua95@gmail.com</string>
+    <string name="placeholder_pass_key">********</string>
+    <string name="placeholder_confirm_pass_key">********</string>
+</resources>
